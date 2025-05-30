@@ -1,0 +1,21 @@
+/formation-genie-electrique/
+├── /assets/                  # Dossier principal pour les ressources
+│   ├── /css/                 # Feuilles de style
+│   │   └── style.css         # OU main.css
+│   ├── /js/                  # Scripts JavaScript
+│   │   └── script.js         # OU app.js
+│   ├── /images/              # Images du site
+│   │   ├── logo.png          # Votre logo
+│   │   ├── banner-home.jpg   # Bannière principale
+│   │   └── icons/            # Dossier pour icônes (si nécessaire)
+│   └── /pdf/                 # Cours en PDF
+│       ├── module1-electrotechnique.pdf
+│       └── module2-energies-renouvelables.pdf
+│
+├── /cours/                   # Pages dédiées aux modules
+│   ├── electrotechnique.html
+│   └── energies-renouvelables.html
+│
+├── index.html                # Page d'accueil
+├── contact.html              # Page de contact
+└── README.md                 # Documentation du projet (optionnel)
