@@ -1,0 +1,13 @@
+<!-- Section Modules -->
+<div class="module">
+  <h3>⚡ Électrotechnique</h3>
+  <!-- PDF -->
+  <a href="https://drive.google.com/uc?export=download&id=ID_DU_FICHIER" 
+     class="btn">
+    Télécharger le PDF
+  </a>
+  <!-- Vidéo -->
+  <div class="video">
+    <iframe src="https://www.youtube.com/embed/ID_VIDEO"></iframe>
+  </div>
+</div>
